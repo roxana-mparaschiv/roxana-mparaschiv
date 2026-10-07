@@ -1,5 +1,15 @@
 # # Technical Engineering Portfolio
-
+<p align="center">
+  <img src="slide1.png" alt="Engineering Portfolio - Cover" width="100%">
+  <br><br>
+  <img src="slide2.png" alt="3 GHz Microstrip Rat-Race Coupler" width="100%">
+  <br><br>
+  <img src="slide3.png" alt="4G LTE vs 5G NR IoT Testbed" width="100%">
+  <br><br>
+  <img src="slide4.png" alt="Antenna Array Simulation" width="100%">
+  <br><br>
+  <img src="slide5.png" alt="Core Competencies and Contact" width="100%">
+</p>
 **Maria-Roxana Paraschiv**  
 *Telecom & IT Engineer | B.Sc. ETTI UPB*  
 Bucharest, Romania
